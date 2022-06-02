@@ -1,0 +1,15 @@
+C:\Projects\The_Four_Sisters_and_the_Duckbear\obj\Debug\net6.0\The_Four_Sisters_and_the_Duckbear.csproj.AssemblyReference.cache
+C:\Projects\The_Four_Sisters_and_the_Duckbear\obj\Debug\net6.0\The_Four_Sisters_and_the_Duckbear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\The_Four_Sisters_and_the_Duckbear\obj\Debug\net6.0\The_Four_Sisters_and_the_Duckbear.AssemblyInfoInputs.cache
+C:\Projects\The_Four_Sisters_and_the_Duckbear\obj\Debug\net6.0\The_Four_Sisters_and_the_Duckbear.AssemblyInfo.cs
+C:\Projects\The_Four_Sisters_and_the_Duckbear\obj\Debug\net6.0\The_Four_Sisters_and_the_Duckbear.csproj.CoreCompileInputs.cache
+C:\Projects\The_Four_Sisters_and_the_Duckbear\bin\Debug\net6.0\The_Four_Sisters_and_the_Duckbear.exe
+C:\Projects\The_Four_Sisters_and_the_Duckbear\bin\Debug\net6.0\The_Four_Sisters_and_the_Duckbear.deps.json
+C:\Projects\The_Four_Sisters_and_the_Duckbear\bin\Debug\net6.0\The_Four_Sisters_and_the_Duckbear.runtimeconfig.json
+C:\Projects\The_Four_Sisters_and_the_Duckbear\bin\Debug\net6.0\The_Four_Sisters_and_the_Duckbear.dll
+C:\Projects\The_Four_Sisters_and_the_Duckbear\bin\Debug\net6.0\The_Four_Sisters_and_the_Duckbear.pdb
+C:\Projects\The_Four_Sisters_and_the_Duckbear\obj\Debug\net6.0\The_Four_Sisters_and_the_Duckbear.dll
+C:\Projects\The_Four_Sisters_and_the_Duckbear\obj\Debug\net6.0\refint\The_Four_Sisters_and_the_Duckbear.dll
+C:\Projects\The_Four_Sisters_and_the_Duckbear\obj\Debug\net6.0\The_Four_Sisters_and_the_Duckbear.pdb
+C:\Projects\The_Four_Sisters_and_the_Duckbear\obj\Debug\net6.0\The_Four_Sisters_and_the_Duckbear.genruntimeconfig.cache
+C:\Projects\The_Four_Sisters_and_the_Duckbear\obj\Debug\net6.0\ref\The_Four_Sisters_and_the_Duckbear.dll

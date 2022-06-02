@@ -1,0 +1,15 @@
+C:\Projects\The_Triangle_Farmer\bin\Debug\net6.0\The_Triangle_Farmer.exe
+C:\Projects\The_Triangle_Farmer\bin\Debug\net6.0\The_Triangle_Farmer.deps.json
+C:\Projects\The_Triangle_Farmer\bin\Debug\net6.0\The_Triangle_Farmer.runtimeconfig.json
+C:\Projects\The_Triangle_Farmer\bin\Debug\net6.0\The_Triangle_Farmer.dll
+C:\Projects\The_Triangle_Farmer\bin\Debug\net6.0\The_Triangle_Farmer.pdb
+C:\Projects\The_Triangle_Farmer\obj\Debug\net6.0\The_Triangle_Farmer.csproj.AssemblyReference.cache
+C:\Projects\The_Triangle_Farmer\obj\Debug\net6.0\The_Triangle_Farmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\The_Triangle_Farmer\obj\Debug\net6.0\The_Triangle_Farmer.AssemblyInfoInputs.cache
+C:\Projects\The_Triangle_Farmer\obj\Debug\net6.0\The_Triangle_Farmer.AssemblyInfo.cs
+C:\Projects\The_Triangle_Farmer\obj\Debug\net6.0\The_Triangle_Farmer.csproj.CoreCompileInputs.cache
+C:\Projects\The_Triangle_Farmer\obj\Debug\net6.0\The_Triangle_Farmer.dll
+C:\Projects\The_Triangle_Farmer\obj\Debug\net6.0\refint\The_Triangle_Farmer.dll
+C:\Projects\The_Triangle_Farmer\obj\Debug\net6.0\The_Triangle_Farmer.pdb
+C:\Projects\The_Triangle_Farmer\obj\Debug\net6.0\The_Triangle_Farmer.genruntimeconfig.cache
+C:\Projects\The_Triangle_Farmer\obj\Debug\net6.0\ref\The_Triangle_Farmer.dll
