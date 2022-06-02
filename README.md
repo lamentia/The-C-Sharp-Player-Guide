@@ -1,2 +1,2 @@
-# player-s_guide_to_csharp
+# The-C-Sharp-Player-Guide
 Finishing all challenges in the book by RB Whitaker 
