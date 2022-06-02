@@ -1,0 +1,15 @@
+C:\Projects\Consolas_And_Telim\obj\Debug\net6.0\Consolas_And_Telim.csproj.AssemblyReference.cache
+C:\Projects\Consolas_And_Telim\obj\Debug\net6.0\Consolas_And_Telim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Consolas_And_Telim\obj\Debug\net6.0\Consolas_And_Telim.AssemblyInfoInputs.cache
+C:\Projects\Consolas_And_Telim\obj\Debug\net6.0\Consolas_And_Telim.AssemblyInfo.cs
+C:\Projects\Consolas_And_Telim\obj\Debug\net6.0\Consolas_And_Telim.csproj.CoreCompileInputs.cache
+C:\Projects\Consolas_And_Telim\bin\Debug\net6.0\Consolas_And_Telim.exe
+C:\Projects\Consolas_And_Telim\bin\Debug\net6.0\Consolas_And_Telim.deps.json
+C:\Projects\Consolas_And_Telim\bin\Debug\net6.0\Consolas_And_Telim.runtimeconfig.json
+C:\Projects\Consolas_And_Telim\bin\Debug\net6.0\Consolas_And_Telim.dll
+C:\Projects\Consolas_And_Telim\bin\Debug\net6.0\Consolas_And_Telim.pdb
+C:\Projects\Consolas_And_Telim\obj\Debug\net6.0\Consolas_And_Telim.dll
+C:\Projects\Consolas_And_Telim\obj\Debug\net6.0\refint\Consolas_And_Telim.dll
+C:\Projects\Consolas_And_Telim\obj\Debug\net6.0\Consolas_And_Telim.pdb
+C:\Projects\Consolas_And_Telim\obj\Debug\net6.0\Consolas_And_Telim.genruntimeconfig.cache
+C:\Projects\Consolas_And_Telim\obj\Debug\net6.0\ref\Consolas_And_Telim.dll
