@@ -1,0 +1,15 @@
+D:\C# Projects\Repairing_the_Clocktower\bin\Release\net6.0\Repairing_the_Clocktower.exe
+D:\C# Projects\Repairing_the_Clocktower\bin\Release\net6.0\Repairing_the_Clocktower.deps.json
+D:\C# Projects\Repairing_the_Clocktower\bin\Release\net6.0\Repairing_the_Clocktower.runtimeconfig.json
+D:\C# Projects\Repairing_the_Clocktower\bin\Release\net6.0\Repairing_the_Clocktower.dll
+D:\C# Projects\Repairing_the_Clocktower\bin\Release\net6.0\Repairing_the_Clocktower.pdb
+D:\C# Projects\Repairing_the_Clocktower\obj\Release\net6.0\Repairing_the_Clocktower.csproj.AssemblyReference.cache
+D:\C# Projects\Repairing_the_Clocktower\obj\Release\net6.0\Repairing_the_Clocktower.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Repairing_the_Clocktower\obj\Release\net6.0\Repairing_the_Clocktower.AssemblyInfoInputs.cache
+D:\C# Projects\Repairing_the_Clocktower\obj\Release\net6.0\Repairing_the_Clocktower.AssemblyInfo.cs
+D:\C# Projects\Repairing_the_Clocktower\obj\Release\net6.0\Repairing_the_Clocktower.csproj.CoreCompileInputs.cache
+D:\C# Projects\Repairing_the_Clocktower\obj\Release\net6.0\Repairing_the_Clocktower.dll
+D:\C# Projects\Repairing_the_Clocktower\obj\Release\net6.0\refint\Repairing_the_Clocktower.dll
+D:\C# Projects\Repairing_the_Clocktower\obj\Release\net6.0\Repairing_the_Clocktower.pdb
+D:\C# Projects\Repairing_the_Clocktower\obj\Release\net6.0\Repairing_the_Clocktower.genruntimeconfig.cache
+D:\C# Projects\Repairing_the_Clocktower\obj\Release\net6.0\ref\Repairing_the_Clocktower.dll
