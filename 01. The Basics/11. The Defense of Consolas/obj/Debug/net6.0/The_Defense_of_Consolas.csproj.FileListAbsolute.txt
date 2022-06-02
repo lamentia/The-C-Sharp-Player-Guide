@@ -1,0 +1,15 @@
+D:\C# Projects\The_Defense_of_Consolas\bin\Debug\net6.0\The_Defense_of_Consolas.exe
+D:\C# Projects\The_Defense_of_Consolas\bin\Debug\net6.0\The_Defense_of_Consolas.deps.json
+D:\C# Projects\The_Defense_of_Consolas\bin\Debug\net6.0\The_Defense_of_Consolas.runtimeconfig.json
+D:\C# Projects\The_Defense_of_Consolas\bin\Debug\net6.0\The_Defense_of_Consolas.dll
+D:\C# Projects\The_Defense_of_Consolas\bin\Debug\net6.0\The_Defense_of_Consolas.pdb
+D:\C# Projects\The_Defense_of_Consolas\obj\Debug\net6.0\The_Defense_of_Consolas.csproj.AssemblyReference.cache
+D:\C# Projects\The_Defense_of_Consolas\obj\Debug\net6.0\The_Defense_of_Consolas.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\The_Defense_of_Consolas\obj\Debug\net6.0\The_Defense_of_Consolas.AssemblyInfoInputs.cache
+D:\C# Projects\The_Defense_of_Consolas\obj\Debug\net6.0\The_Defense_of_Consolas.AssemblyInfo.cs
+D:\C# Projects\The_Defense_of_Consolas\obj\Debug\net6.0\The_Defense_of_Consolas.csproj.CoreCompileInputs.cache
+D:\C# Projects\The_Defense_of_Consolas\obj\Debug\net6.0\The_Defense_of_Consolas.dll
+D:\C# Projects\The_Defense_of_Consolas\obj\Debug\net6.0\refint\The_Defense_of_Consolas.dll
+D:\C# Projects\The_Defense_of_Consolas\obj\Debug\net6.0\The_Defense_of_Consolas.pdb
+D:\C# Projects\The_Defense_of_Consolas\obj\Debug\net6.0\The_Defense_of_Consolas.genruntimeconfig.cache
+D:\C# Projects\The_Defense_of_Consolas\obj\Debug\net6.0\ref\The_Defense_of_Consolas.dll

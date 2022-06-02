@@ -1,0 +1,15 @@
+C:\Projects\The_Dominion_of_Kings\obj\Debug\net6.0\The_Dominion_of_Kings.csproj.AssemblyReference.cache
+C:\Projects\The_Dominion_of_Kings\obj\Debug\net6.0\The_Dominion_of_Kings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\The_Dominion_of_Kings\obj\Debug\net6.0\The_Dominion_of_Kings.AssemblyInfoInputs.cache
+C:\Projects\The_Dominion_of_Kings\obj\Debug\net6.0\The_Dominion_of_Kings.AssemblyInfo.cs
+C:\Projects\The_Dominion_of_Kings\obj\Debug\net6.0\The_Dominion_of_Kings.csproj.CoreCompileInputs.cache
+C:\Projects\The_Dominion_of_Kings\bin\Debug\net6.0\The_Dominion_of_Kings.exe
+C:\Projects\The_Dominion_of_Kings\bin\Debug\net6.0\The_Dominion_of_Kings.deps.json
+C:\Projects\The_Dominion_of_Kings\bin\Debug\net6.0\The_Dominion_of_Kings.runtimeconfig.json
+C:\Projects\The_Dominion_of_Kings\bin\Debug\net6.0\The_Dominion_of_Kings.dll
+C:\Projects\The_Dominion_of_Kings\bin\Debug\net6.0\The_Dominion_of_Kings.pdb
+C:\Projects\The_Dominion_of_Kings\obj\Debug\net6.0\The_Dominion_of_Kings.dll
+C:\Projects\The_Dominion_of_Kings\obj\Debug\net6.0\refint\The_Dominion_of_Kings.dll
+C:\Projects\The_Dominion_of_Kings\obj\Debug\net6.0\The_Dominion_of_Kings.pdb
+C:\Projects\The_Dominion_of_Kings\obj\Debug\net6.0\The_Dominion_of_Kings.genruntimeconfig.cache
+C:\Projects\The_Dominion_of_Kings\obj\Debug\net6.0\ref\The_Dominion_of_Kings.dll
