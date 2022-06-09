@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0tLlA/BByXQmPX4ZFvr+v+x2vmKtXJb0YCbgQ+7TMDhcxhYLtMCkChpWsIK6EZM1NLBneJGdb92gFs0ZYudXEg==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\The Prototype\\The Prototype.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nihro\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.4\\microsoft.netcore.app.runtime.linux-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\nihro\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.4\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\nihro\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.4\\microsoft.netcore.app.host.linux-x64.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

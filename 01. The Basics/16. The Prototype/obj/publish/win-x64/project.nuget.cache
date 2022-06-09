@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bLyikzDmXuDij9852tt1dlQx3tD9wHaej73zYMQz3t8JTa6cW52hv5BDnt2N1Q8mlsnXByicTzbIPRj6hRWS/A==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\The Prototype\\The Prototype.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nihro\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.4\\microsoft.netcore.app.runtime.win-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\nihro\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\nihro\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.4\\microsoft.aspnetcore.app.runtime.win-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\nihro\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.4\\microsoft.netcore.app.crossgen2.win-x64.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
