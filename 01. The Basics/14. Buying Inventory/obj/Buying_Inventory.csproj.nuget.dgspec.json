@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Buying_Inventory\\Buying_Inventory.csproj": {}
+    "C:\\Users\\Sergei\\Source\\Repos\\lamentia\\The-C-Sharp-Player-Guide\\01. The Basics\\14. Buying Inventory\\Buying_Inventory.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Buying_Inventory\\Buying_Inventory.csproj": {
+    "C:\\Users\\Sergei\\Source\\Repos\\lamentia\\The-C-Sharp-Player-Guide\\01. The Basics\\14. Buying Inventory\\Buying_Inventory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Buying_Inventory\\Buying_Inventory.csproj",
+        "projectUniqueName": "C:\\Users\\Sergei\\Source\\Repos\\lamentia\\The-C-Sharp-Player-Guide\\01. The Basics\\14. Buying Inventory\\Buying_Inventory.csproj",
         "projectName": "Buying_Inventory",
-        "projectPath": "C:\\Projects\\Buying_Inventory\\Buying_Inventory.csproj",
+        "projectPath": "C:\\Users\\Sergei\\Source\\Repos\\lamentia\\The-C-Sharp-Player-Guide\\01. The Basics\\14. Buying Inventory\\Buying_Inventory.csproj",
         "packagesPath": "C:\\Users\\Sergei\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Buying_Inventory\\obj\\",
+        "outputPath": "C:\\Users\\Sergei\\Source\\Repos\\lamentia\\The-C-Sharp-Player-Guide\\01. The Basics\\14. Buying Inventory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
