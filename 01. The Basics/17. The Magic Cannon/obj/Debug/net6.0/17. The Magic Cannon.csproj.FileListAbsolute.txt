@@ -1,0 +1,15 @@
+C:\Users\nihro\Documents\GitHub\The-C-Sharp-Player-Guide\01. The Basics\17. The Magic Cannon\bin\Debug\net6.0\17. The Magic Cannon.exe
+C:\Users\nihro\Documents\GitHub\The-C-Sharp-Player-Guide\01. The Basics\17. The Magic Cannon\bin\Debug\net6.0\17. The Magic Cannon.deps.json
+C:\Users\nihro\Documents\GitHub\The-C-Sharp-Player-Guide\01. The Basics\17. The Magic Cannon\bin\Debug\net6.0\17. The Magic Cannon.runtimeconfig.json
+C:\Users\nihro\Documents\GitHub\The-C-Sharp-Player-Guide\01. The Basics\17. The Magic Cannon\bin\Debug\net6.0\17. The Magic Cannon.dll
+C:\Users\nihro\Documents\GitHub\The-C-Sharp-Player-Guide\01. The Basics\17. The Magic Cannon\bin\Debug\net6.0\17. The Magic Cannon.pdb
+C:\Users\nihro\Documents\GitHub\The-C-Sharp-Player-Guide\01. The Basics\17. The Magic Cannon\obj\Debug\net6.0\17. The Magic Cannon.csproj.AssemblyReference.cache
+C:\Users\nihro\Documents\GitHub\The-C-Sharp-Player-Guide\01. The Basics\17. The Magic Cannon\obj\Debug\net6.0\17. The Magic Cannon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihro\Documents\GitHub\The-C-Sharp-Player-Guide\01. The Basics\17. The Magic Cannon\obj\Debug\net6.0\17. The Magic Cannon.AssemblyInfoInputs.cache
+C:\Users\nihro\Documents\GitHub\The-C-Sharp-Player-Guide\01. The Basics\17. The Magic Cannon\obj\Debug\net6.0\17. The Magic Cannon.AssemblyInfo.cs
+C:\Users\nihro\Documents\GitHub\The-C-Sharp-Player-Guide\01. The Basics\17. The Magic Cannon\obj\Debug\net6.0\17. The Magic Cannon.csproj.CoreCompileInputs.cache
+C:\Users\nihro\Documents\GitHub\The-C-Sharp-Player-Guide\01. The Basics\17. The Magic Cannon\obj\Debug\net6.0\17. The Magic Cannon.dll
+C:\Users\nihro\Documents\GitHub\The-C-Sharp-Player-Guide\01. The Basics\17. The Magic Cannon\obj\Debug\net6.0\refint\17. The Magic Cannon.dll
+C:\Users\nihro\Documents\GitHub\The-C-Sharp-Player-Guide\01. The Basics\17. The Magic Cannon\obj\Debug\net6.0\17. The Magic Cannon.pdb
+C:\Users\nihro\Documents\GitHub\The-C-Sharp-Player-Guide\01. The Basics\17. The Magic Cannon\obj\Debug\net6.0\17. The Magic Cannon.genruntimeconfig.cache
+C:\Users\nihro\Documents\GitHub\The-C-Sharp-Player-Guide\01. The Basics\17. The Magic Cannon\obj\Debug\net6.0\ref\17. The Magic Cannon.dll
